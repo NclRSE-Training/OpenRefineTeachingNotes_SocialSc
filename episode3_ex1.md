@@ -60,3 +60,6 @@ Solution
 
 The interview data for that row is in a small cluster of Chirodzo interviews when sorting by GPS coordinates. When sorting by interview date, it is also with Chirodzo interviews. In fact, only Chirodzo had interviews conducted on that date.
   </details>
+  
+  
+  [Episode 4 Exercise 1](episode4_ex1.md)
