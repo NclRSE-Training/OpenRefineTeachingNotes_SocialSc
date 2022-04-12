@@ -1,4 +1,5 @@
-**Exercise 1**
+**Exercise 4.1**
+
 Transform three more columns, no_members, years_liv, and buildings_in_compound, from text to numbers. Can all columns be transformed to numbers? - Try it with village for example.
 
 <details>
@@ -10,7 +11,7 @@ Only observations that include only numerals (0-9) can be transformed to numbers
   
 ---
 
-**Exercise 2**
+**Exercise 4.2**
 
 1. For a column you transformed to numbers, edit one or two cells, replacing the numbers with text (such as abc) or blank (no number or text). You will need to change the Data type to text using the drop-down menu.
 1. Use the column pulldown menu to apply a numeric facet to the column you edited. The facet will appear in the left panel.
