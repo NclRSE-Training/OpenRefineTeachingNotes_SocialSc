@@ -23,3 +23,5 @@ Notice the the values in the column turn green. Doing Facet > Timeline facet cre
 Most of the data was collected in November of 2016.
 
 </details>
+
+[More on facets](more_on_facets.md)
