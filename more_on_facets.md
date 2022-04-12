@@ -16,4 +16,4 @@ As well as ‘Text facets’ Refine also supports a range of other types of face
 * Text length facet - creates a numeric facet based on the length (number of characters) of the text in each row for the selected column. This can be useful for spotting incorrect or unusual data in a field where specific lengths are expected (e.g. if the values are expected to be years, any row with a text length more than 4 for that column is likely to be incorrect)
 * Facet by blank - a binary facet of ‘true’ or ‘false’. Rows appear in the ‘true’ facet if they have no data present in that column. This is useful when looking for rows missing key data.
 
-[Episode 2 exercise 2](expisode2_ex2.md)
+[Episode 2 exercise 2](episode2_ex2.md)
