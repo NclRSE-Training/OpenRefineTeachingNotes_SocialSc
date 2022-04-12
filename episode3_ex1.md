@@ -44,6 +44,7 @@ In the gps:Altitude column, select Sort... > numbers and select smallest first. 
 ---
 
 **Exercise 3.4**
+
 We discovered in an earlier lesson that the value for one of the village entries was given as 49. This is clearly wrong. By looking at the GPS coordinates for the entries of the other villages can we decide what village the data in that column was collected from?
 
 1. Sort on gps_Latitude as a number with the smallest first.
