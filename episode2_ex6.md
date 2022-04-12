@@ -1,4 +1,4 @@
-**Exercise**
+**Exercise 2.6**
 
 1. Click where it says ```Undo / Redo``` on the left side of the screen. All the changes you have made so far are listed here.
 1. Click on the step that you want to go back to, in this case go back several steps to before you had done any text transformation.
