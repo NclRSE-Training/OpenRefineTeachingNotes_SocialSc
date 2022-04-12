@@ -1,4 +1,4 @@
-**Exercise 1**
+**Exercise 3.1**
 
 1. What roof types are selected by this procedure?
 1. How would you restrict this to only one of the roof types?
@@ -14,7 +14,7 @@ Solution
 
 ---
 
-**Exercise 2**
+**Exercise 3.2**
 Use include / exclude to select only entries from one of these two roof types.
 
 <details>
@@ -29,7 +29,7 @@ Solution
 
 ---
 
-**Exercise 3**
+**Exercise 3.3**
 
 Sort the data by gps_Altitude. Do you think the first few entries may have incorrect altitudes?.
 
@@ -43,7 +43,7 @@ In the gps:Altitude column, select Sort... > numbers and select smallest first. 
 
 ---
 
-**Exercise 4**
+**Exercise 3.4**
 We discovered in an earlier lesson that the value for one of the village entries was given as 49. This is clearly wrong. By looking at the GPS coordinates for the entries of the other villages can we decide what village the data in that column was collected from?
 
 1. Sort on gps_Latitude as a number with the smallest first.
